@@ -1,5 +1,5 @@
 # Coffee-Shop
-Frontend Website for a Coffee Shop Using HTML and CSS
+Frontend of Website for a Coffee Shop Using HTML and CSS
 
 Hello, I have created this website while learning HTML and CSS from BOLT IOT Platform. 
 In this project I made use of HTML and external CSS styling method.
